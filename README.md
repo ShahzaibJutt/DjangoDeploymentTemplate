@@ -1,2 +1,2 @@
-# DjangoRecipeApp
-Recipe Api Project
+# DjangoDeploymentTemplate
+Django Deployment Template With Docker And EC2
